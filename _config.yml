@@ -4,7 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  Adherents to the Sixth Declaration of the Lacandon Jungle.
 baseurl: /about
 twitter_username: CitizensSummons
-facebook_username: CitizensSummons
+#todo: fix this
+#facebook_username: CitizensSummons
 
 # Build settings
 theme: minima
