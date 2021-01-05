@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are a collective based in Bonn, Germany, that follows the Zapatista principeand our members are adherents to the .
-
-We are all adherents to the [Sixth Declaration of the Lacandon Jungle](https://enlacezapatista.ezln.org.mx/sdsl-en/) and agree with the seven organizational principles of the Zapatista Army of National Liberation ([EZLN](http://www.congresonacionalindigena.org/what-is-the-cni/)) and the National Indigenous Congress ([CNI](http://www.congresonacionalindigena.org/what-is-the-cni/)) of Mexico:
+We are a collective based in Bonn, Germany where all our members are adherents to the [Sixth Declaration of the Lacandon Jungle](https://enlacezapatista.ezln.org.mx/sdsl-en/), and we follow the seven organizational principles of the Zapatista Army of National Liberation ([EZLN](http://www.congresonacionalindigena.org/what-is-the-cni/)) and the National Indigenous Congress ([CNI](http://www.congresonacionalindigena.org/what-is-the-cni/)) of Mexico:
 
  * Lead by obeying
  * Propose, don’t impose
@@ -17,7 +15,7 @@ We are all adherents to the [Sixth Declaration of the Lacandon Jungle](https://e
  * Build, don’t destroy
  * We want a world where many worlds fit
 
-If you know any organizations or people in your community whose efforts should be highlighted, we'd love to amplify their stories.
+If you also agree with those words, please consider joining us. Or let us know about any organizations or people in your community whose efforts should be highlighted, we'd love to amplify their stories.
 
 You can follow us on:
 
