@@ -23,3 +23,5 @@ More details can be found in their latest communiques, in multiple languages, at
 * [Part 1: A Declaration... for Life](http://enlacezapatista.ezln.org.mx/2021/01/01/primera-parte-una-declaracion-por-la-vida/) (January 1, 2021)
 
 If you are in Bonn/Cologne and want to help organize the trip or participate in any way, please let us know at `info[at]citizenssummons[dot]org`.
+
+And if you are in other regions of Germany, please visit [Ya-Basta-Netz](https://www.ya-basta-netz.org/reise-orga/), which is the network coordinating the trip in Germany.
