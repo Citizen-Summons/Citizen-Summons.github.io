@@ -7,6 +7,10 @@ categories: events
 The following is a list of a groups based in Europe that support the Zapatistas.
 (this list isn't complete and is constantly being updated).
 
+**Europe:**
+* [Viaje Zapatista](https://viajezapatista.eu/en/)(Zapatista trip)
+* [Europa Zapatista](http://www.europazapatista.org/?tags=pl-en)
+
 🇩🇪 **Germany:**
 * [Ya-Basta-Netz](https://www.ya-basta-netz.org/)
 * [Gruppe B.A.S.T.A.](https://www.gruppe-basta.de/) (Münster/Westfalen)
