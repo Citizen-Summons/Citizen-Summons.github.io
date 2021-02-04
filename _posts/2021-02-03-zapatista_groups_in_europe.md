@@ -8,7 +8,7 @@ The following is a list of a groups based in Europe that support the Zapatistas.
 (this list isn't complete and is constantly being updated).
 
 **Europe:**
-* [Viaje Zapatista](https://viajezapatista.eu/en/)(Zapatista trip)
+* [Viaje Zapatista](https://viajezapatista.eu/en/) (Zapatista trip)
 * [Europa Zapatista](http://www.europazapatista.org/?tags=pl-en)
 
 🇩🇪 **Germany:**
