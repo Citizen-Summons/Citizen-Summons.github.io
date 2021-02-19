@@ -17,13 +17,13 @@ As NAFTA (January 1st 1994) goes into effect, the EZLN rises up in arms and take
 
 # Real origin
 
-* 1969-1974: Fuerzas de Liberación Nacional (FLN)
-* 1982: Activists from the FLN arrive in Chiapas
-* 1983: 3 Members of the FLN and 3 indigenous activists found the EZLN (one woman and five men) (in English, original in Spanish)
+* 1969-1974: Fuerzas de Liberación Nacional (FLN).
+* 1982: Activists from the FLN arrive in Chiapas.
+* 1983: 3 Members of the FLN and 3 indigenous activists found the EZLN (one woman and five men) (in English, original in Spanish).
 * 1984: Sub. Marcos arrives together with a Chol woman and a Tzotzil man
-* 1989: EZLN grows to 1,300 armed members
-* 1992: In preparation for NAFTA, Article 27 of the Mexican Constitution is reformed to allow for privatization of ejidos (community landholdings), effectively ending land reform (one of the major wins from the Mexican Revolution)
-* (Dec 31st) 1993: 1st Declaration of the Lacandon Jungle - “Today we say:  enough is enough! (Ya Basta!)”
-* The Zapatista communities approve the military offensive and the Clandestine Indigenous Revolutionary Committee-General Command (CCRI-CG) is formed to lead it
-* EZLN declares the war against the Mexican government
-* They make their (initial) 11 demands public: work, land, housing, food, health care, education, independence, freedom, democracy, justice and peace
+* 1989: EZLN grows to 1,300 armed members.
+* 1992: In preparation for NAFTA, Article 27 of the Mexican Constitution is reformed to allow for privatization of ejidos (community landholdings), effectively ending land reform (one of the major wins from the Mexican Revolution).
+* (Dec 31st) 1993: 1st Declaration of the Lacandon Jungle - “Today we say:  enough is enough! (Ya Basta!)”.
+* The Zapatista communities approve the military offensive and the Clandestine Indigenous Revolutionary Committee-General Command (CCRI-CG) is formed to lead it.
+* EZLN declares the war against the Mexican government.
+* They make their (initial) 11 demands public: work, land, housing, food, health care, education, independence, freedom, democracy, justice and peace.

@@ -3,6 +3,7 @@ email: info@citizenssummons.org
 description: >- # this means to ignore newlines until "baseurl:"
  Adherents to the Sixth Declaration of the Lacandon Jungle.
 baseurl: /about/
+url: http://citizenssummons.org
 twitter_username: CitizensSummons
 facebook_username: CitizensSummons
 
@@ -21,11 +22,6 @@ colors:
 
 include: [_pages]
 permalink: pretty
-collections:
-  my_collection:
-    output: true
-    permalink: /:collection/:name
-
 
 defaults:
   -
