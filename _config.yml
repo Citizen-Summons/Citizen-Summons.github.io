@@ -6,6 +6,7 @@ baseurl: /about/
 url: http://citizenssummons.org
 twitter_username: CitizensSummons
 facebook_username: CitizensSummons
+root: /octo-5
 
 # Build settings
 theme: minima
