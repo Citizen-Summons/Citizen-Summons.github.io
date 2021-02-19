@@ -2,8 +2,9 @@ title: Citizens Summons
 email: info@citizenssummons.org
 description: >- # this means to ignore newlines until "baseurl:"
  Adherents to the Sixth Declaration of the Lacandon Jungle.
-baseurl: /
+baseurl: /about/
 twitter_username: CitizensSummons
+facebook_username: CitizensSummons
 
 # Build settings
 theme: minima
@@ -18,14 +19,40 @@ colors:
   blue:      '#253B56'
   salmon:    '#F89E77'
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+include: [_pages]
+permalink: pretty
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:name
+
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /blog/:categories/:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
