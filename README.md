@@ -1,2 +1,2 @@
 # Citizens Summons
-[Citizens Summons website](https://citizens-summons.github.io/)
+[Citizens Summons website](http://citizenssummons.org/)

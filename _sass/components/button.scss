@@ -1,0 +1,24 @@
+@import 'mixins';
+
+.button {
+  @include font-weight("semiBold");
+}
+
+.solid-button {
+  background-color: var(--button-bg-color);
+  color: var(--button-text-color);
+
+  &:focus,
+  &:hover {
+      background-color: var(--button-bg-color-hover);
+  }
+}
+
+.plus-button {
+  &::before {
+    content: "+";
+    margin-right: 10px;
+    @include font-size(-1);
+    @include font-weight("bold");
+  }
+}
