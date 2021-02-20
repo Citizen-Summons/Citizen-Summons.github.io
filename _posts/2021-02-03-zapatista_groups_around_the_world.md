@@ -3,7 +3,7 @@ layout: page
 title: Zapatista groups around the world
 date:   2021-02-03 01:37:00 +0200
 categories: pages
-permalink: /zapatistas/groups
+permalink: /zapatistas/groups/
 ---
 The following is a list of groups that support the Zapatistas.
 (this list isn't complete and is constantly being updated).

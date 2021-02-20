@@ -3,7 +3,7 @@ layout: page
 title:  Gira Zapatista
 date:   2021-02-03 00:59:00 +0200
 categories: pages
-permalink: /gira_zapatista
+permalink: /gira_zapatista/
 ---
 The Zapatistas have announced they will visit Europe in the Summer of 2021 because they have decided that:
 
