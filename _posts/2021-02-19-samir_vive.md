@@ -8,3 +8,5 @@ Samir Vive (Samir lives) is an ongoing multimedia project that honors the life a
 
 
 > "For Samir, as for his compañeras and compañeros, and for the originary peoples that make up the CNI and for us, nosotros, nosotras, nosotroas Zapatistas, the life of a community doesn’t take place only in the present: it is above all what is to come. The life of a community is something that is built today, but built for tomorrow. That is, life in community is something that is passed on to future generations." - [SupGaleano](http://enlacezapatista.ezln.org.mx/2020/10/11/part-five-the-gaze-and-the-distance-to-the-door/)
+
+<img src="../assets/images/samir_vive/samir_ahuehuete.jpg" alt="samir_ahuehuete">

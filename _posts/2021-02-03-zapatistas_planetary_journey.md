@@ -28,4 +28,4 @@ If you are in Bonn/Cologne and want to help organize the trip or participate in 
 And if you are in other regions of Germany, please visit [Ya-Basta-Netz](https://www.ya-basta-netz.org/reise-orga/) to find out more about the current state of the trip and ways to help, for instance, by [donating](https://www.ya-basta-netz.org/die-zapatistas-kommen-zu-uns/).
 
 # Zapatista groups around the World
-[Here](/about/zapatistas/groups) you can find other groups that support the Zapatistas.
+[Here](/zapatistas/groups/) you can find other groups that support the Zapatistas.

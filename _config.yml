@@ -6,10 +6,12 @@ baseurl: /
 url: http://citizenssummons.org
 twitter_username: CitizensSummons
 facebook_username: CitizensSummons
+logo: /assets/images/cs_logo.png
+
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast"
+theme: minima
+minimal_mistakes_skin: classic
 
 plugins:
   - jekyll-feed
@@ -21,6 +23,7 @@ colors:
   red:       '#C40A25'
   blue:      '#253B56'
   salmon:    '#F89E77'
+
 
 include:
   - _pages
